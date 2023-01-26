@@ -23,8 +23,8 @@ I am interest in any kind of programing, for instance; Networking, Low Level Pro
 - ### C
 
 ```c
-    #include<stdio.h>
-    int main(){
+    #include <stdio.h>
+    int main(int argc, char **argv) {
         printf("And some of C.\n");
         return 0;
     }
