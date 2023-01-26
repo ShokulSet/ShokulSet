@@ -25,7 +25,7 @@ I am interest in any kind of programing, for instance; Networking, Low Level Pro
 ```c
     #include<stdio.h>
     int main(){
-        print("And some of C.")
+        printf("And some of C.")
     }
 ```
 
