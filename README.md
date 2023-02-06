@@ -25,13 +25,7 @@ I am interest in any kind of programing, for instance; Networking, Low Level Pro
 ```c
     #include <stdio.h>
     int main(int argc, char **argv) {
-        printf("And some of C.\n");
+        printf("Also currently learning C.\n");
         return 0;
     }
-```
-
-- ### Bash
-
-```bash
-    echo "Also learning bash."
 ```
