@@ -1,6 +1,6 @@
 # Hello world
 
-Welcome to the Github page of the laziest existence in universe. I might have not much repositories in my page (most of my work are unfinished)
+Welcome to the my Github page. I might have not much repositories in my page (most of my work are unfinished)
 but I still love to coding and learn more about it.
 
 ---
@@ -8,7 +8,7 @@ but I still love to coding and learn more about it.
 ## About me
 
 My name is Settapun Laoaree **(Shokul)**. I am currently studying at Prasarnmit Demonstration School at grade 10 in Digital Engineering major.
-I am interest in any kind of programing, for instance; Networking, Low Level Programing, Operating System.
+I am interest in any kind of programing, for instance; Networking, Low Level Programing, Operating System, Machine Learning.
 
 ---
 
